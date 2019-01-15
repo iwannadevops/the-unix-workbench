@@ -398,6 +398,3 @@
 - Giannis Tampakakis
 - schan
 - Zikun Qin
-- Jin
-- dd
-- fdf
