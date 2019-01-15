@@ -398,9 +398,3 @@
 - Giannis Tampakakis
 - schan
 - Zikun Qin
-- young jin
-- seong jin
-- qwe
-- ddd
-- sss
-- ddd
