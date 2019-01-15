@@ -398,4 +398,4 @@
 - Giannis Tampakakis
 - schan
 - Zikun Qin
-- seong Jin
+- yeong Jin
