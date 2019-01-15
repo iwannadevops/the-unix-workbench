@@ -402,3 +402,8 @@
 - seong jin
 - qwe
 - ddd
+<<<<<<< HEAD
+=======
+- sss
+- ddd
+>>>>>>> 03337ff1b5b8e512b28fdb42f982f47dde57d618
