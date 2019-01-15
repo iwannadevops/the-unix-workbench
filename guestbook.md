@@ -400,7 +400,3 @@
 - Zikun Qin
 - young jin
 - seong jin
-- jj
-- ddd
-- zxc
-- qwe
